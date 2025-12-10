@@ -1,0 +1,1 @@
+void print(int arr[], int n);
